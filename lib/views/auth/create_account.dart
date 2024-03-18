@@ -62,7 +62,7 @@ class CreateAccount extends StatelessWidget {
                 TextForm(
                   controller: controller.name,
                   hint: 'Name',
-                  prefix: const Icon(CupertinoIcons.mail),
+                  prefix: const Icon(CupertinoIcons.person),
                 ),
                 const SizedBox(
                   height: 10,
